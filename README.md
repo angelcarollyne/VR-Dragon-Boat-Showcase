@@ -15,10 +15,13 @@ This project is a high-fidelity Virtual Reality (VR) training system designed to
 ---
 
 ## 🛠️ Technical Stack
-*   **Game Engine:** Unity 2022.3.33f1
-*   **Hardware:** Meta Quest 3 (Standalone VR)[cite: 2]
-*   **Motion Capture:** Meta Movement SDK & Rokoko AI[cite: 2]
-*   **Interactions:**Meta SDK All-in-One[cite: 2]
+*   **Game Engine:** Unity 2022.3.33f1 (LTS)
+*   **Hardware Target:** Meta Quest 3 (Standalone VR)
+*   **Tracking & Motion:** 
+    *   **Meta Movement SDK:** For high-fidelity avatar body tracking and realistic arm movements.
+    *   **Rokoko Vision:** AI-driven motion capture for professional animation.([Link](https://www.rokoko.com/products/vision))
+*   **Interaction Framework:** 
+    *   **Meta XR All-in-One SDK:** Core integration for 6DoF tracking and input.([Link](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657))
 
 ---
 
