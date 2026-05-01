@@ -4,9 +4,9 @@
 ---
 
 ## 📖 Project Overview
-This project is a high-fidelity Virtual Reality (VR) training system designed to provide accessible dragon boat coaching[cite: 1]. It addresses the pedagogical challenges of traditional coaching by providing a repeatable, safe, and immersive environment for learners to master complex rowing mechanics[cite: 1, 2].
+This project is a high-fidelity Virtual Reality (VR) training system designed to provide accessible dragon boat coaching. It addresses the pedagogical challenges of traditional coaching by providing a repeatable, safe, and immersive environment for learners to master complex rowing mechanics.
 
-### The Four Critical Phases of Rowing[cite: 1, 2]:
+### The Four Critical Phases of Rowing:
 *   **Setup:** Initial body positioning and paddle grip.
 *   **Catch:** The precise entry point of the paddle into the water.
 *   **Rowing:** The power phase driving the boat forward.
@@ -23,16 +23,16 @@ This project is a high-fidelity Virtual Reality (VR) training system designed to
 ---
 
 ## 🚀 Key Features
-*   **AI-Driven Virtual Coach:** Real-time demonstration of rowing techniques using high-fidelity rigged avatars[cite: 1, 2].
-*   **Physics-Based Mechanics:** Custom rowing logic where boat velocity is calculated based on 6DoF paddle movement[cite: 2].
-*   **Multimodal Feedback:** Visual and audio cues to guide learners through the "Setup-Catch-Row-Recovery" loop[cite: 1, 2].
+*   **AI-Driven Virtual Coach:** Real-time demonstration of rowing techniques using high-fidelity rigged avatars.
+*   **Physics-Based Mechanics:** Custom rowing logic where boat velocity is calculated based on 6DoF paddle movement.
+*   **Multimodal Feedback:** Visual and audio cues to guide learners through the "Setup-Catch-Row-Recovery" loop.
 
 ---
 
 ## 🔬 Research & Evaluation
-As part of a controlled user study (IRB Approved), this system was tested against traditional instructional methods[cite: 2]. 
-*   **Usability:** Achieved a high score on the **System Usability Scale (SUS)**[cite: 2].
-*   **Cognitive Load:** Participants reported **lower mental demand up to 33.3%** when training with the Virtual Coach compared to static instructions (NASA-TLX)[cite: 2].
+As part of a controlled user study (IRB Approved), this system was tested against traditional instructional methods. 
+*   **Usability:** Achieved a high score on the **System Usability Scale (SUS)**.
+*   **Cognitive Load:** Participants reported **lower mental demand up to 33.3%** when training with the Virtual Coach compared to static instructions (NASA-TLX).
 
 ---
 
